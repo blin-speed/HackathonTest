@@ -4,5 +4,6 @@ public class HelloWorld{
         System.out.println("| Sumedh | No risk, full push, simply lovely, Forza Ferrari|");
         System.out.println("|Rashmi|No risk,full push");
         System.out.println("|Divyash|namimiiii|");
+        System.out.println("|Amogh|chin tapak dum dum|");
     }
 }
